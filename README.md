@@ -4,7 +4,7 @@
 [![Build Status](https://travis.schibsted.io/dtpt-datafoundations/pulse-unicorn-android.svg?token=zzxUpTfpymUwiUGpwDgr&branch=master)](https://travis.schibsted.io/github/dtpt-datafoundations/pulse-unicorn-android)
 
 Pulse Unicorn is an extension
-over [Android event SDK](https://github.schibsted.io/spt-dataanalytics/event-sdk-android)
+over [Android event SDK]([https://github.schibsted.io/spt-dataanalytics/event-sdk-android](https://github.com/schibsted/pulse-sdk-android))
 It makes your life easier!
 
 - [Pulse Unicorn Android](#pulse-unicorn-android)
