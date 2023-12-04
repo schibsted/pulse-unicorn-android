@@ -49,7 +49,7 @@ by your app are implemented and sent exactly as you wanted them to be implemente
 
 # Pulse Unicorn Integration
 
-1. Be sure that you have access to Schibsted Artifactory configured in your project.
+1. Be sure that you have access to Schibsted Artifactory configured in your project or `mavenCentral`
 2. Add `Pulse Unicorn` maven to `gradle.build` file.
 
 ```kotlin
