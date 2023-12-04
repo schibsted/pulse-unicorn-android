@@ -145,11 +145,6 @@ lifecycleScope.launch(Dispatchers.IO) {
 }
 ```
 ## Contact
-In case of a Pulse SDK related issue we expect to keep an open communication happening on our Slack channels:
-- 👉 &nbsp;[#pulse-android-sdk](https://sch-chat.slack.com/messages/pulse-android-sdk/) for Android related issues
-<br />or
-- 👉 &nbsp;[#pulse-support](https://sch-chat.slack.com/messages/pulse-support/) for all other general purpose requests
-
-When, for technical reasons Slack cannot work for you, please make sure to use [GitHub issues link](https://github.schibsted.io/dtpt-datafoundations/pulse-unicorn-android/issues) instead.
+When, for technical reasons Slack cannot work for you, please make sure to use [GitHub issues link](https://github.com/schibsted/pulse-unicorn-android/issues) instead.
 We will provide all the necessary answers within the relevant Slack threads (or in Github issue when your case is inserted there).
 Thank you for your cooperation!
