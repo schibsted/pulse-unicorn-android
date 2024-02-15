@@ -22,7 +22,7 @@ It makes your life easier!
 
 ## Current version
 ```
-1.1.5
+1.1.7
 ```
 
 ## What is the purpose?
